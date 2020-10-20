@@ -4,7 +4,7 @@ We all have that playlist with all our songs that have way too much "stuff" to s
 
 This program aims to help you solve that by creating subplaylists for you. Insert your main playlist, the type of subplaylist you want (chill, car, workout, etc), and this program will create that playlist for you.
 
-Note: if you wish to run this program on your own computer, you will have to go to spotify developer 
+Note: if you wish to run this program on your own computer, you will have to go to spotify developer website and create an app. This will give you access to a Client ID, Client Secret, and a Redirect URL (which can be any URL you choose). You can pass this in using a virtual environment or (if you are using pycharm) ctrl click the Spotify OAuth method and pass it in directly.
 
 Goal:
 I finally have automatic authentication working and playlist generation, my next goal is to move the program to a website so it can be more accessable
