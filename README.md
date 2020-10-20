@@ -1,4 +1,4 @@
-# SpotifyVibeCreator
+# Spotify Mood Setter
 
 We all have that playlist with all our songs that have way too much "stuff" to sort through. As a spotify addict, I have my fairshare of playlists with 1000+ songs. The issue is that playlist isn't the mood the vast majority of the time and you end up wasting hours continously skipping until you get the right song.
 
